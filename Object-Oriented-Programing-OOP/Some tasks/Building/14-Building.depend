@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1502374961 source:c:\users\teq\desktop\oop-newtry\oop-lqto\14-building\building.cpp
+	"Building.h"
+	<cstring>
+
+1502368712 c:\users\teq\desktop\oop-newtry\oop-lqto\14-building\building.h
+
+1502376243 source:c:\users\teq\desktop\oop-newtry\oop-lqto\14-building\house.cpp
+	"House.h"
+	<cstring>
+
+1502371883 c:\users\teq\desktop\oop-newtry\oop-lqto\14-building\house.h
+	"Building.h"
+
+1502373172 source:c:\users\teq\desktop\oop-newtry\oop-lqto\14-building\main.cpp
+	<iostream>
+	"Building.h"
+	"House.h"
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1515502866 source:c:\users\teq\desktop\up-newtry\hw3\3b\main.cpp
+	<iostream>
+	<stdlib.h>
+	<cstring>
+	<ctime>
+

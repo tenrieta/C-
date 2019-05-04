@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1510749175 source:c:\users\teq\desktop\sdp\2017-2018\stack\main.cpp
+	<iostream>
+	"Stack.h"
+
+1510750373 c:\users\teq\desktop\sdp\2017-2018\stack\stack.h
+
+1510750387 source:c:\users\teq\desktop\sdp\2017-2018\stack\stack.cpp
+	"Stack.h"
+	<iostream>
+

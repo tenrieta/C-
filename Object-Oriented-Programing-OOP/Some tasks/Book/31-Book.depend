@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1503605324 source:c:\users\teq\desktop\oop-newtry\oop-lqto\31-book\book.cpp
+	"Book.h"
+	<iostream>
+	<cstring>
+
+1503605620 c:\users\teq\desktop\oop-newtry\oop-lqto\31-book\book.h
+	<iostream>
+
+1503605692 source:c:\users\teq\desktop\oop-newtry\oop-lqto\31-book\library.cpp
+	"Library.h"
+
+1503605692 c:\users\teq\desktop\oop-newtry\oop-lqto\31-book\library.h
+	"Book.h"
+
+1503604983 source:c:\users\teq\desktop\oop-newtry\oop-lqto\31-book\main.cpp
+	<iostream>
+	"Book.h"
+	"Library.h"
+

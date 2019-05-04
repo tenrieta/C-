@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1511708133 source:c:\users\teq\desktop\sdp\2017-2018\hw2\sorts\main.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+	<stdlib.h>
+	"StudentData.h"
+
+1511705222 source:c:\users\teq\desktop\sdp\2017-2018\hw2\sorts\studentdata.cpp
+	"StudentData.h"
+	<iostream>
+
+1511705222 c:\users\teq\desktop\sdp\2017-2018\hw2\sorts\studentdata.h
+	"Student.h"
+
+1511704554 source:c:\users\teq\desktop\sdp\2017-2018\hw2\sorts\student.cpp
+	"Student.h"
+	<iostream>
+	<cstring>
+
+1511704020 c:\users\teq\desktop\sdp\2017-2018\hw2\sorts\student.h
+

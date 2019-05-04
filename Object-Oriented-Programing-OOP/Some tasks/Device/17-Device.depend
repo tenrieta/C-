@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1503578951 source:c:\users\teq\desktop\oop-newtry\oop-lqto\17-device\device.cpp
+	"Device.h"
+	<cstring>
+
+1503578145 c:\users\teq\desktop\oop-newtry\oop-lqto\17-device\device.h
+
+1503579458 source:c:\users\teq\desktop\oop-newtry\oop-lqto\17-device\laptop.cpp
+	"Laptop.h"
+	<iostream>
+	<cstring>
+
+1503579458 c:\users\teq\desktop\oop-newtry\oop-lqto\17-device\laptop.h
+	"Device.h"
+
+1503579120 source:c:\users\teq\desktop\oop-newtry\oop-lqto\17-device\main.cpp
+	<iostream>
+	"Car.h"
+	"Laptop.h"
+	"Inventory.h"
+
+1503579574 source:c:\users\teq\desktop\oop-newtry\oop-lqto\17-device\car.cpp
+	"Car.h"
+	<cstring>
+	<iostream>
+
+1503579619 c:\users\teq\desktop\oop-newtry\oop-lqto\17-device\car.h
+	"Device.h"
+
+1503578796 source:c:\users\teq\desktop\oop-newtry\oop-lqto\17-device\inventory.cpp
+	"Inventory.h"
+	<iostream>
+
+1503578731 c:\users\teq\desktop\oop-newtry\oop-lqto\17-device\inventory.h
+	"Device.h"
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1510779249 source:c:\users\teq\desktop\sdp\2017-2018\queue\main.cpp
+	<iostream>
+	"Queue.h"
+
+1510753338 c:\users\teq\desktop\sdp\2017-2018\queue\queue.h
+
+1510779272 source:c:\users\teq\desktop\sdp\2017-2018\queue\queue.cpp
+	"Queue.h"
+	<iostream>
+
